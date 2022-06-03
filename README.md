@@ -1,2 +1,2 @@
 # mindx_hw
-just purely homework
+coding homework (mostly back-end stuff)
